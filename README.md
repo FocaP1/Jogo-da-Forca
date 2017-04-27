@@ -14,6 +14,6 @@ Array: Armzenamento de pontos.
 Condicionais: Verificar acertos e erros dos Jogadores.
 
 # Desenvolvedores
-KamilaBenevides
+Kamila Benevides (https://github.com/KamilaBenevides)
 
-HeilLuizy
+Luizy Mayara (https://github.com/HeilLuizy)
