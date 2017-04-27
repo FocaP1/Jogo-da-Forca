@@ -9,7 +9,7 @@ Estruturas de Repetição: Para comparação de caracteres.
 
 Estruturas de Dados: Armazenamento de palavras.
 
-Array: Armzenamento de pontos.
+Array: Armazenamento de pontos.
 
 Condicionais: Verificar acertos e erros dos Jogadores.
 
