@@ -1,17 +1,15 @@
 # Jogo-da-Forca
-Dois jogadores desafiam um ao outro a descobrirem palavras através de uma dica dada por eles. Cada um, em sua vez, tem que adivinhar a palavra dada pelo Jogador Desafiante, sendo informado letras que vão de A a Z. Caso o Jogador Desafiado, erre uma letra, será desenhado um membro no boneco que será enforcado.
+É um jogo em que o jogador tem que acertar a palavra proposta, tendo como dica o número de letras e uma dica ligada a palavra. A cada letra errada, é desenhada uma parte do corpo do enforcado. O jogo termina ou com o acerto da palavra ou com o término do preenchimento das partes corpóreas do enforcado
 
 # Objetivo do Jogo
-Quem ganha o jogo é o Jogador que acumular mais pontos.
+Conseguir desvendar as palavras dada no jogo.
 
 # Aplicações
 Estruturas de Repetição: Para comparação de caracteres.
 
-Estruturas de Dados: Armazenamento de palavras.
+Estruturas de Dados e Array: Armazenamento e apresentações de palavras.
 
-Array: Armazenamento de pontos.
-
-Condicionais: Verificar acertos e erros dos Jogadores.
+Condicionais: Verificar acertos e erros do jogador.
 
 # Desenvolvedores
 Kamila Benevides (https://github.com/KamilaBenevides)
