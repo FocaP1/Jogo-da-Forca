@@ -14,7 +14,7 @@ Alocação Dinâmica: Reservar um espaço na memória para as palavras escolhida
 
 Ponteiros: Declaração dos bitmaps e das fontes.
 
-Array: Armazenamento e apresentações de palavras.
+Array: Armazenamento das palavras.
 
 Strings: Apresentação das palavras.
 
