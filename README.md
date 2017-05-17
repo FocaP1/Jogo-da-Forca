@@ -5,9 +5,18 @@
 Conseguir desvendar as palavras dada no jogo.
 
 # Aplicações
+
+Biblioteca Allegro: Interface Gráfica.
+
 Estruturas de Repetição: Para comparação de caracteres.
 
-Estruturas de Dados e Array: Armazenamento e apresentações de palavras.
+Alocação Dinâmica: Reservar um espaço na memória para as palavras escolhidas.
+
+Ponteiros: Declaração dos bitmaps e das fontes.
+
+Array: Armazenamento e apresentações de palavras.
+
+Strings: Apresentação das palavras.
 
 Condicionais: Verificar acertos e erros do jogador.
 
